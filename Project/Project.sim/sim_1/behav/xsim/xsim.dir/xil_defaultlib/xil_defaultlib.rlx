@@ -1,0 +1,20 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/ClockGen.vhd,1595817665,vhdl,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,clockgen,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/DVI_Constants.vhd,1595817665,vhdl,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/TMDS_Encoder.vhd,,,dvi_constants,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/OutputSERDES.vhd,1595817665,vhdl,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,outputserdes,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/SyncAsync.vhd,1595817665,vhdl,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/SyncAsyncReset.vhd,,,syncasync,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/SyncAsyncReset.vhd,1595817665,vhdl,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,resetbridge,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/TMDS_Encoder.vhd,1595817665,vhdl,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,tmds_encoder,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.ip_user_files/ipstatic/src/rgb2dvi.vhd,1595817665,vhdl,,,,rgb2dvi,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sim_1/new/Video_tb.v,1595950726,verilog,,,,Video_tb,,,../../../../Project.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1595863254,verilog,,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/new/Driver_HDMI.v,,clk_wiz_0,,,../../../../Project.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1595863254,verilog,,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../Project.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/ip/div/sim/div.vhd,1595950601,vhdl,,,,div,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/ip/mult/sim/mult.vhd,1595939406,vhdl,,,,mult,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/ip/rgb2dvi_0/sim/rgb2dvi_0.vhd,1595817660,vhdl,,,,rgb2dvi_0,,,,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/new/Driver_HDMI.v,1595811420,verilog,,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/new/Video_Generator.v,,Driver_HDMI,,,../../../../Project.srcs/sources_1/ip/clk_wiz_0,,,,,
+C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/new/Video_Generator.v,1595947946,verilog,,C:/Users/z1528/Desktop/SEA_S7/Game/Project/Project.srcs/sources_1/new/Top.v,,Video_Generator,,,../../../../Project.srcs/sources_1/ip/clk_wiz_0,,,,,
